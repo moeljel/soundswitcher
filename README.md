@@ -24,6 +24,3 @@ It allow the user to choose 2 audio devices, which will be switched during the n
 
 ## SoundSwitch.ps1
 This file contains the logic to switch between audio devices.
-
-## Next update
-An upcoming update will be made to add an executable file to the project.
